@@ -7,3 +7,5 @@ This repository contains my solution for **Day 1: Sonar Sweep** (Parts 1 & 2) fr
 
 ##  GitHub Repository Link:
 [https://github.com/GhaziKanaan/HW4-Part1](https://github.com/GhaziKanaan/HW4-Part1)
+
+ Simple edit to test author visibility: GhaziKanaan
